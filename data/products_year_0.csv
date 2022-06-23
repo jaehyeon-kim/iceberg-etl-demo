@@ -1,0 +1,201 @@
+"id","created_at","category","price","title","vendor"
+1,2017-07-19 19:44:56,Gizmo,29.463,Rustic Paper Wallet,"Swaniawski, Casper and Hilll"
+2,2019-04-11 08:49:35,Doohickey,70.080,Small Marble Shoes,Balistreri-Ankunding
+3,2018-09-08 22:03:20,Doohickey,35.389,Synergistic Granite Chair,"Murray, Watsica and Wunsch"
+4,2018-03-06 02:53:09,Doohickey,73.992,Enormous Aluminum Shirt,Regan Bradtke and Sons
+5,2016-10-03 01:47:39,Gadget,82.745,Enormous Marble Wallet,"Price, Schultz and Daniel"
+6,2017-03-29 05:43:40,Doohickey,64.957,Small Marble Hat,Nolan-Wolff
+7,2017-06-03 03:07:28,Doohickey,98.819,Aerodynamic Linen Coat,Little-Pagac
+8,2018-04-30 15:03:53,Doohickey,65.892,Enormous Steel Watch,Senger-Stamm
+9,2019-02-07 08:26:25,Widget,58.313,Practical Bronze Computer,Keely Stehr Group
+10,2017-01-09 09:51:20,Gizmo,31.786,Mediocre Wooden Table,"Larson, Pfeffer and Klocko"
+11,2018-05-28 08:02:54,Gadget,88.305,Ergonomic Silk Coat,"Upton, Kovacek and Halvorson"
+12,2017-11-12 14:51:16,Gizmo,77.343,Sleek Paper Toucan,Mueller-Dare
+13,2016-05-24 23:09:46,Gizmo,75.086,Synergistic Steel Chair,Mr. Tanya Stracke and Sons
+14,2017-12-31 14:41:56,Widget,25.099,Awesome Concrete Shoes,McClure-Lockman
+15,2016-09-08 14:42:57,Widget,25.099,Aerodynamic Paper Computer,Friesen-Anderson
+16,2017-01-30 22:00:25,Gadget,44.074,Incredible Bronze Pants,"Okuneva, Kutch and Monahan"
+17,2017-01-31 11:05:14,Doohickey,53.291,Enormous Wool Car,"Hilpert, Jacobs and Hauck"
+18,2017-02-11 03:45:40,Gadget,54.602,Lightweight Paper Bottle,Wilkinson-Gottlieb
+19,2016-11-06 23:27:12,Doohickey,42.671,Rustic Concrete Bottle,"Gibson, Turner and Douglas"
+20,2017-08-25 18:18:36,Gizmo,24.884,Intelligent Wooden Gloves,Ora Monahan and Sons
+21,2016-06-30 07:30:53,Gadget,40.383,Lightweight Wool Bag,Heaney-Windler
+22,2017-11-24 20:14:28,Gizmo,21.425,Enormous Marble Shoes,"Mayer, Kiehn and Turcotte"
+23,2018-02-01 16:00:14,Widget,77.911,Fantastic Aluminum Bottle,"Reichert, Johnson and Roob"
+24,2017-02-08 05:19:53,Doohickey,74.871,Synergistic Marble Keyboard,Claude Thompson Group
+25,2018-10-17 03:54:33,Widget,45.748,Durable Marble Watch,"Ritchie, Haley and Pacocha"
+26,2017-11-02 09:54:01,Widget,45.416,Ergonomic Aluminum Plate,Tia Goyette Group
+27,2019-01-25 13:28:28,Gadget,85.016,Awesome Aluminum Table,Alfredo Kuhlman Group
+28,2018-03-13 11:24:34,Gizmo,45.416,Rustic Marble Bottle,"Morissette, Bartoletti and Cummings"
+29,2017-09-14 15:30:37,Widget,82.383,Durable Steel Toucan,Odessa Emmerich Inc
+30,2016-10-22 11:57:21,Gadget,42.783,Ergonomic Paper Wallet,Miles Ryan Group
+31,2018-06-05 19:01:10,Doohickey,70.436,Rustic Rubber Clock,"Quigley, Von and Will"
+32,2017-11-15 04:21:04,Gadget,71.430,Ergonomic Silk Keyboard,Reid Pfannerstill and Sons
+33,2016-05-30 20:38:52,Doohickey,31.830,Small Plastic Computer,Spinka-Stokes
+34,2016-04-28 22:08:19,Gadget,49.536,Heavy-Duty Wooden Clock,Eugenia Kunze LLC
+35,2017-09-14 22:13:40,Doohickey,47.691,Mediocre Cotton Coat,Cassin-Collins
+36,2016-04-26 19:29:55,Gizmo,87.291,Mediocre Plastic Clock,"Wolf, Beahan and Thiel"
+37,2019-04-15 13:34:19,Gadget,53.405,Incredible Granite Toucan,"Parker, OConnell and Beahan"
+38,2017-01-09 14:54:58,Gadget,44.046,Lightweight Leather Gloves,"Bednar, Berge and Boyle"
+39,2019-01-06 03:22:33,Gizmo,76.388,Durable Rubber Computer,Carmela Douglas Inc
+40,2018-06-22 04:29:03,Gizmo,66.442,Small Copper Plate,Maegan Casper Group
+41,2018-07-16 01:10:38,Widget,42.339,Aerodynamic Paper Coat,Robyn Padberg Inc
+42,2016-09-17 18:21:58,Widget,25.336,Awesome Rubber Wallet,Schamberger-Maggio
+43,2016-07-06 03:02:57,Widget,50.902,Lightweight Marble Bag,Francis Wolff Group
+44,2016-08-25 21:35:12,Widget,50.902,Gorgeous Concrete Shoes,Carol Marvin LLC
+45,2016-05-04 13:31:42,Doohickey,78.700,Sleek Wool Wallet,"Volkman, Greenfelder and Kiehn"
+46,2016-09-13 06:34:33,Gadget,78.700,Rustic Linen Keyboard,Una Fadel Group
+47,2017-05-19 22:47:54,Doohickey,56.051,Aerodynamic Cotton Bottle,Annetta Wyman and Sons
+48,2018-02-20 21:54:33,Gizmo,82.139,Gorgeous Concrete Chair,Kiehn-Pacocha
+49,2017-06-02 08:07:59,Gadget,87.619,Incredible Silk Shoes,Schuster-Wyman
+50,2018-06-19 22:53:03,Widget,35.760,Durable Wool Toucan,"Hartmann, Mohr and Stiedemann"
+51,2016-07-07 16:23:10,Gizmo,50.434,Awesome Granite Car,Keshaun Mueller Group
+52,2017-05-22 07:39:32,Widget,69.117,Ergonomic Marble Hat,Koch-Ruecker
+53,2016-11-04 00:33:07,Doohickey,29.517,Mediocre Cotton Toucan,Jacobson-Daniel
+54,2016-11-22 09:23:14,Widget,41.396,Intelligent Bronze Knife,McClure-Murphy
+55,2016-09-05 23:51:24,Gadget,63.848,Mediocre Rubber Shoes,"Considine, Lehner and Maggio"
+56,2017-06-28 13:30:14,Doohickey,24.248,Awesome Silk Car,Hackett-Reynolds
+57,2018-03-01 02:39:56,Gizmo,81.615,Gorgeous Bronze Hat,"Kuphal, Schowalter and Bogan"
+58,2017-12-11 05:22:00,Gadget,52.097,Practical Steel Table,"Smitham, Dach and Bode"
+59,2018-07-14 13:14:37,Gizmo,59.468,Sleek Aluminum Watch,"Donnelly, Renner and Barton"
+60,2017-12-16 11:14:43,Doohickey,19.868,Rustic Paper Car,Stroman-Carroll
+61,2017-01-24 03:11:46,Gizmo,15.692,Mediocre Paper Car,Jordi Effertz LLC
+62,2018-12-06 01:14:59,Widget,89.013,Awesome Iron Hat,Von-Gulgowski
+63,2018-08-28 07:45:17,Gizmo,89.013,Enormous Granite Wallet,"Hills, Fahey and Jones"
+64,2017-02-21 11:15:20,Gadget,95.615,Incredible Aluminum Knife,Noah Anderson and Sons
+65,2018-10-01 14:56:06,Widget,45.485,Ergonomic Silk Table,Weimann-Cummings
+66,2018-02-07 07:35:04,Widget,90.774,Fantastic Silk Bottle,Goyette-Smitham
+67,2018-11-17 15:52:35,Gizmo,27.497,Aerodynamic Granite Bottle,Myriam Macejkovic Inc
+68,2016-11-08 03:04:47,Gizmo,76.829,Heavy-Duty Copper Toucan,"Howe, Kiehn and Price"
+69,2019-01-18 13:07:28,Doohickey,48.925,Synergistic Leather Coat,"Wiza, Abbott and Deckow"
+70,2017-10-03 13:35:45,Widget,38.329,Small Rubber Clock,Izabella Dach I and Sons
+71,2017-08-31 06:01:19,Gadget,55.203,Sleek Granite Pants,"Kirlin, Hermann and Stokes"
+72,2018-03-26 01:19:30,Widget,94.803,Rustic Paper Bench,"Senger, Mertz and Murray"
+73,2016-10-31 20:13:40,Widget,47.753,Aerodynamic Rubber Bench,Rowan Kautzer LLC
+74,2017-02-21 10:21:53,Gadget,34.085,Awesome Plastic Watch,Herman Flatley Group
+75,2018-03-06 09:46:21,Gadget,83.875,Intelligent Paper Hat,Ledner-Satterfield
+76,2017-11-22 20:48:19,Widget,42.549,Sleek Marble Clock,"Koepp, Ondricka and Larkin"
+77,2017-06-23 01:30:23,Gadget,67.345,Mediocre Leather Computer,Fisher-Kemmer
+78,2018-01-08 10:49:46,Gizmo,27.745,Mediocre Aluminum Shirt,"Zemlak, Botsford and Corkery"
+79,2016-11-21 13:59:05,Gizmo,27.745,Sleek Aluminum Clock,"Toy, Deckow and Nitzsche"
+80,2016-05-02 06:05:29,Widget,36.609,Small Copper Clock,Cruickshank-Abernathy
+81,2017-01-23 15:20:01,Gizmo,29.289,Lightweight Linen Coat,Mason Bashirian and Sons
+82,2016-10-08 10:26:19,Gadget,40.597,Heavy-Duty Steel Watch,Braeden Gislason and Sons
+83,2017-12-25 15:37:40,Gadget,54.584,Lightweight Bronze Table,Mr. Johanna Koepp and Sons
+84,2016-12-17 15:11:24,Gizmo,54.584,Incredible Plastic Chair,Americo Sipes and Sons
+85,2017-03-16 20:07:48,Gizmo,36.601,Rustic Copper Knife,"Reynolds, Gleason and Brekke"
+86,2019-04-02 20:38:34,Doohickey,61.543,Heavy-Duty Silk Chair,"Orn, Hilpert and Pfannerstill"
+87,2018-05-20 00:35:08,Widget,78.170,Gorgeous Linen Bottle,Miss Annamae Kutch Group
+88,2018-10-18 15:24:37,Gizmo,70.275,Lightweight Linen Bottle,Dorothea Balistreri Inc
+89,2016-12-31 05:57:15,Widget,42.480,Awesome Aluminum Keyboard,"Stamm, Crist and Labadie"
+90,2017-07-02 08:23:34,Gizmo,82.080,Incredible Concrete Keyboard,Rodriguez-Kuhlman
+91,2018-09-20 14:53:54,Gizmo,43.396,Rustic Rubber Knife,Connelly-Ritchie
+92,2016-06-20 18:01:28,Gizmo,83.262,Small Granite Gloves,Baumbach-Hilpert
+93,2017-04-29 18:52:34,Widget,33.212,Practical Copper Car,Medhurst-Reichert
+94,2017-08-19 21:28:45,Widget,72.812,Awesome Bronze Plate,Nolan-Heller
+95,2017-09-16 19:33:44,Gizmo,33.212,Durable Iron Knife,"Schiller, Bogisich and Lockman"
+96,2017-06-07 00:06:12,Doohickey,69.881,Heavy-Duty Silk Car,Bernhard-Grady
+97,2018-02-02 15:38:37,Doohickey,74.946,Durable Copper Clock,"Halvorson, Lockman and Ruecker"
+98,2019-04-09 16:49:29,Gizmo,74.946,Mediocre Silk Bottle,Pacocha-Volkman
+99,2018-01-09 10:07:27,Gadget,45.223,Enormous Plastic Coat,Kuhlman-Kuphal
+100,2017-04-27 13:06:30,Gizmo,45.223,Lightweight Steel Knife,"Legros, Lynch and Howell"
+101,2017-04-08 09:49:44,Gadget,93.217,Durable Cotton Bench,Gutmann-Breitenberg
+102,2019-03-29 21:27:53,Gadget,31.361,Lightweight Granite Hat,Dominic Mann Group
+103,2018-05-03 07:44:56,Widget,31.361,Rustic Silk Pants,Trantow-Bartell
+104,2018-10-22 05:51:55,Widget,70.961,Sleek Leather Toucan,Senger-Doyle
+105,2016-06-16 00:07:23,Gadget,35.149,Fantastic Wool Shirt,Jerrod McLaughlin LLC
+106,2017-04-25 07:27:37,Doohickey,35.149,Fantastic Steel Knife,Friesen-Langworth
+107,2017-11-19 08:15:29,Gadget,33.397,Lightweight Wool Plate,Dora Fay and Sons
+108,2019-03-03 13:38:54,Gadget,33.397,Practical Silk Computer,Aufderhar-Boehm
+109,2016-08-13 14:20:38,Widget,79.367,Intelligent Iron Shirt,Price Kuhic Inc
+110,2016-10-16 09:45:43,Widget,37.018,Enormous Marble Gloves,Stanton-Fritsch
+111,2018-08-22 13:32:49,Gadget,37.018,Ergonomic Rubber Bench,"Hane, Hamill and Jerde"
+112,2017-02-05 00:51:43,Doohickey,27.553,Small Wool Wallet,Ledner-Watsica
+113,2019-01-21 08:01:53,Gadget,73.652,Sleek Leather Table,"Ruecker, Carter and Ortiz"
+114,2018-06-26 13:56:49,Doohickey,51.941,Practical Plastic Keyboard,"Wisoky, Pagac and Heaney"
+115,2018-01-27 11:30:35,Gadget,51.941,Rustic Silk Knife,Mrs. Eugenia Koelpin and Sons
+116,2018-09-12 15:23:05,Gizmo,76.283,Aerodynamic Concrete Bench,Denesik-Ortiz
+117,2016-07-22 20:50:56,Gizmo,36.683,Small Concrete Knife,Jefferey Volkman LLC
+118,2016-10-19 00:34:27,Gadget,38.418,Synergistic Rubber Shoes,Herta Skiles and Sons
+119,2018-03-24 02:04:35,Gadget,28.959,Gorgeous Linen Keyboard,Alfreda Konopelski II Group
+120,2016-09-27 14:38:31,Widget,55.668,Heavy-Duty Copper Watch,Jerrell Gulgowski Inc
+121,2017-11-10 04:39:43,Doohickey,26.964,Ergonomic Wool Bag,"Wolff, Ebert and Hansen"
+122,2017-05-08 02:53:55,Gizmo,66.564,Gorgeous Marble Plate,Fisher-Purdy
+123,2017-11-16 13:53:14,Gizmo,73.954,Mediocre Wooden Bench,Flatley-Kunde
+124,2018-02-09 15:51:19,Gizmo,73.954,Durable Aluminum Bag,Zemlak-Wiegand
+125,2016-05-12 00:21:10,Widget,53.598,Aerodynamic Granite Bench,Lon Wiegand DVM and Sons
+126,2016-09-27 22:45:23,Widget,83.496,Practical Wool Hat,Emmerich-Nienow
+127,2016-10-12 17:58:13,Widget,89.653,Practical Bronze Watch,Schamberger-Wehner
+128,2017-11-10 14:32:06,Gizmo,50.053,Gorgeous Aluminum Plate,Cale Thompson V and Sons
+129,2017-12-14 23:45:19,Gizmo,98.778,Small Marble Knife,"Turner, Kiehn and Schmitt"
+130,2017-10-10 02:32:39,Gizmo,50.017,Awesome Cotton Shoes,"Kuphal, Friesen and Rowe"
+131,2017-03-23 15:06:11,Widget,75.411,Practical Aluminum Coat,Batz-Schroeder
+132,2018-04-01 01:51:42,Widget,85.255,Sleek Steel Table,Marge Effertz Jr. Inc
+133,2016-09-16 20:51:59,Doohickey,45.655,Sleek Wool Watch,"Hauck, Ernser and Barton"
+134,2017-05-25 12:10:54,Doohickey,28.328,Practical Paper Bag,"Considine, Bogisich and Bauch"
+135,2019-04-02 07:04:34,Gizmo,30.536,Enormous Granite Bottle,Lorenza Mayer Inc
+136,2017-07-05 17:59:19,Widget,70.136,Mediocre Marble Lamp,"Crona, Block and Homenick"
+137,2019-02-16 22:36:43,Gizmo,45.182,Ergonomic Granite Bottle,"Morissette, Dare and Schimmel"
+138,2016-12-18 20:19:28,Doohickey,75.967,Incredible Plastic Watch,Kiel Kassulke Group
+139,2016-06-08 10:24:36,Doohickey,51.185,Lightweight Steel Watch,"Wuckert, Murazik and Ernser"
+140,2017-12-01 09:57:43,Gadget,44.535,Sleek Copper Watch,Daugherty-Dach
+141,2018-10-03 19:23:24,Doohickey,84.135,Enormous Cotton Pants,Nikolaus-Hudson
+142,2017-10-14 02:59:37,Doohickey,46.899,Ergonomic Marble Computer,"Kuphal, Brown and Koss"
+143,2018-02-04 22:30:01,Gizmo,40.799,Rustic Iron Bench,"McGlynn, Fay and Kertzmann"
+144,2019-01-19 02:05:08,Widget,40.799,Aerodynamic Bronze Hat,"Schumm, Brown and Wehner"
+145,2018-04-27 15:52:11,Gizmo,40.799,Awesome Wool Bench,Stark-Bayer
+146,2016-09-14 10:14:08,Widget,84.032,Lightweight Wool Computer,Theodora Terry and Sons
+147,2017-07-17 15:41:47,Doohickey,44.432,Mediocre Wool Toucan,"Bradtke, Wilkinson and Reilly"
+148,2018-05-26 05:12:30,Gadget,92.654,Sleek Plastic Shoes,Gail Bergstrom Inc
+149,2017-06-15 08:50:11,Widget,46.103,Incredible Aluminum Knife,"Padberg, Senger and Williamson"
+150,2018-11-26 07:59:53,Gadget,85.703,Synergistic Wool Coat,Morar-Schamberger
+151,2017-10-16 00:52:50,Gizmo,61.075,Lightweight Leather Bench,"Marquardt, Crooks and Abshire"
+152,2017-05-26 20:35:11,Widget,32.597,Enormous Aluminum Clock,Thompson-Wolf
+153,2017-11-24 19:13:23,Gadget,44.533,Aerodynamic Leather Computer,"Wilkinson, Donnelly and Gulgowski"
+154,2018-07-07 14:51:56,Widget,54.584,Incredible Bronze Wallet,"Hermiston, OHara and Wunsch"
+155,2017-02-22 12:53:05,Gadget,29.184,Fantastic Rubber Knife,Demarcus Brakus Inc
+156,2016-09-30 07:55:10,Gadget,20.411,Heavy-Duty Copper Gloves,"Schinner, Schmitt and Crona"
+157,2017-12-01 08:35:33,Widget,93.263,Intelligent Granite Hat,Dooley-Cummings
+158,2017-07-09 11:04:50,Gizmo,93.263,Aerodynamic Leather Toucan,Israel Spinka and Sons
+159,2017-02-27 20:15:05,Widget,23.687,Aerodynamic Cotton Lamp,"Mueller, Mayert and Johnston"
+160,2018-05-03 21:43:50,Gadget,31.727,Lightweight Linen Hat,Oran DAmore Inc
+161,2016-06-12 23:35:50,Doohickey,31.727,Heavy-Duty Rubber Gloves,"West, Prohaska and Wunsch"
+162,2018-11-25 14:58:59,Gadget,22.379,Gorgeous Copper Knife,Connelly-Mitchell
+163,2016-08-01 20:39:00,Widget,22.379,Ergonomic Leather Pants,Brittany Mueller Inc
+164,2016-12-01 22:43:06,Doohickey,61.979,Sleek Bronze Lamp,Bosco-Breitenberg
+165,2018-01-14 08:47:02,Gizmo,25.536,Aerodynamic Copper Knife,"McDermott, Kiehn and Becker"
+166,2016-08-05 07:54:17,Doohickey,25.536,Rustic Copper Hat,Kuhn-OReilly
+167,2017-10-24 14:18:17,Doohickey,65.136,Gorgeous Paper Bag,Prohaska-Quigley
+168,2016-07-29 03:49:13,Gadget,79.288,Intelligent Paper Car,Roscoe Oberbrunner Group
+169,2018-08-04 01:37:27,Doohickey,39.688,Small Cotton Chair,Kuhlman-McKenzie
+170,2018-11-11 00:14:00,Widget,70.051,Durable Leather Wallet,Ruecker-Jakubowski
+171,2017-07-07 19:15:07,Doohickey,70.051,Ergonomic Iron Watch,Blake Greenfelder Group
+172,2018-09-02 16:45:49,Gizmo,81.577,Practical Aluminum Table,Heathcote-Kirlin
+173,2016-05-30 07:24:27,Gadget,81.577,Gorgeous Wooden Car,"Upton, Schoen and Streich"
+174,2017-02-13 07:10:15,Gadget,74.410,Rustic Iron Keyboard,Barrows-Johns
+175,2016-07-31 13:29:50,Doohickey,78.217,Fantastic Leather Watch,Lakin-Stroman
+176,2016-07-29 09:38:22,Widget,38.617,Enormous Leather Wallet,Mr. Colton Mayer Group
+177,2018-12-29 22:35:47,Gadget,85.880,Heavy-Duty Cotton Bottle,Ursula Collins LLC
+178,2017-05-14 05:22:59,Widget,78.220,Ergonomic Linen Toucan,Halle Kulas I LLC
+179,2016-08-19 11:20:01,Doohickey,45.549,Incredible Linen Knife,Casper-Schimmel
+180,2017-07-29 09:06:00,Gadget,45.549,Lightweight Copper Wallet,Maxime Haley and Sons
+181,2019-03-31 07:59:18,Widget,95.926,Awesome Steel Toucan,"Berge, Mraz and Sawayn"
+182,2018-10-19 22:20:01,Gadget,56.326,Practical Silk Bottle,Devonte Gleichner Inc
+183,2016-11-28 02:43:19,Gizmo,37.798,Mediocre Aluminum Lamp,"Powlowski, Keebler and Quigley"
+184,2017-04-03 18:01:04,Widget,77.398,Practical Granite Plate,Gaylord-Lesch
+185,2016-11-09 14:06:25,Gadget,26.385,Sleek Marble Table,Cremin-Williamson
+186,2018-04-14 15:21:02,Gizmo,65.985,Ergonomic Concrete Lamp,Theodore Hansen Inc
+187,2017-07-03 23:17:30,Gizmo,65.985,Fantastic Copper Hat,Janick Harvey LLC
+188,2019-02-07 19:03:43,Doohickey,22.585,Synergistic Copper Computer,"Jones, Hayes and Kshlerin"
+189,2017-08-16 01:01:21,Widget,62.185,Gorgeous Marble Computer,"Marvin, Turcotte and Wisozk"
+190,2019-01-22 15:58:52,Gadget,85.723,Ergonomic Cotton Bag,Delphia Bauch Inc
+191,2018-05-01 21:16:24,Gadget,85.723,Heavy-Duty Linen Gloves,"Herman, Gleason and Renner"
+192,2016-07-28 08:48:29,Widget,46.123,Durable Cotton Shirt,"Grady, Greenfelder and Welch"
+193,2017-04-24 18:33:44,Gadget,33.587,Ergonomic Plastic Bench,Hodkiewicz-Brekke
+194,2016-05-11 09:39:00,Doohickey,33.587,Heavy-Duty Rubber Bottle,Rosanna Murazik Inc
+195,2019-04-01 23:26:53,Gadget,73.187,Incredible Concrete Watch,Ford Runolfsson Group
+196,2017-03-08 20:05:27,Widget,46.764,Heavy-Duty Linen Toucan,Balistreri-Muller
+197,2017-06-08 08:56:15,Gizmo,46.764,Aerodynamic Concrete Lamp,Erika Volkman Group
+198,2017-09-06 19:28:16,Gizmo,46.764,Enormous Copper Shirt,"Considine, Schamberger and Schiller"
+199,2016-08-19 01:21:25,Widget,76.953,Mediocre Leather Coat,"Gulgowski, Grimes and Mayer"
+200,2018-06-12 06:08:53,Gadget,48.803,Intelligent Steel Car,"Pouros, Nitzsche and Mayer"

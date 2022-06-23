@@ -1,0 +1,15 @@
+version: "2"
+
+services:
+  postgres:
+    image: postgres:13
+    container_name: postgres
+    ports:
+      - 5432:5432
+    volumes:
+      - ./scripts/:/docker-entrypoint-initdb.d
+    environment:
+      - POSTGRES_DB=main
+      - POSTGRES_USER=master
+      - POSTGRES_PASSWORD=password
+

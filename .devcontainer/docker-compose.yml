@@ -1,0 +1,15 @@
+version: "2"
+
+services:
+  spark:
+    image: emr-6.5.0:20211119
+    container_name: spark
+    command: /bin/bash -c "while sleep 1000; do :; done"
+    networks:
+      - spark
+    volumes:
+      - ${PWD}:/home/hadoop/repo
+
+networks:
+  spark:
+    name: spark

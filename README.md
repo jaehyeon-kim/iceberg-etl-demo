@@ -1,8 +1,8 @@
 # iceberg-warehousing
 
 ## TO DO
-- spark container environment setup
-- iceberg POC with integration with Glue Catalog
+- [X] spark container environment setup
+- [_] iceberg POC with integration with Glue Catalog
     - take users as an example
     - make surrogate key
-- ETL for products and orders
+- [_] ETL for products and orders

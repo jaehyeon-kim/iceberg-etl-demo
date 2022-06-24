@@ -7,7 +7,7 @@ def create_tables(
     *, tbls: List[str] = ["users", "products", "orders"], spark_session: SparkSession
 ):
     if len(set(tbls) - set(["users", "products", "orders"])) > 0:
-        raise Exception("available tables are users, products or orders")
+        raise Exception("supported tables are users, products or orders")
     for tbl in tbls:
         print(f"creating demo.dwh.{tbl}...")
         spark_session.sql(f"DROP TABLE IF EXISTS demo.dwh.{tbl}")

@@ -4,7 +4,7 @@
 ICEBERG_VERSION=0.13.2
 DEPENDENCIES="org.apache.iceberg:iceberg-spark3-runtime:$ICEBERG_VERSION"
 
-# add AWS dependnecy
+# add AWS dependency
 AWS_SDK_VERSION=2.17.131
 AWS_MAVEN_GROUP=software.amazon.awssdk
 AWS_PACKAGES=(
@@ -15,7 +15,7 @@ for pkg in "${AWS_PACKAGES[@]}"; do
     DEPENDENCIES+=",$AWS_MAVEN_GROUP:$pkg:$AWS_SDK_VERSION"
 done
 
-# launch pyspark or spark-submit
+# execute pyspark or spark-submit
 execution=$1
 app_path=$2
 if [ -z $execution ]; then
@@ -32,7 +32,7 @@ if [ $execution == "pyspark" ]; then
         --conf spark.sql.catalog.demo.io-impl=org.apache.iceberg.aws.s3.S3FileIO
 elif [ $execution == "spark-submit" ]; then
     if [ -z $app_path ]; then
-        echo "pyspark applicatoin is mandatory"
+        echo "pyspark application is mandatory"
         exit 1
     else
         spark-submit --packages $DEPENDENCIES \

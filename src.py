@@ -64,8 +64,8 @@ def create_tables(
             )
 
 
-def upsert_users(file_path: str, spark_session: SparkSession):
-    print("users - read records...")
+def etl_users(file_path: str, spark_session: SparkSession):
+    print("users - transform records...")
     src_df = (
         spark_session.read.option("header", "true")
         .csv(file_path)
@@ -87,7 +87,7 @@ def upsert_users(file_path: str, spark_session: SparkSession):
             "created_at",
         )
     )
-    print("users - transform and upsert records...")
+    print("users - upsert records...")
     src_df.createOrReplaceTempView("users_tbl")
     spark_session.sql(
         """
@@ -100,8 +100,8 @@ def upsert_users(file_path: str, spark_session: SparkSession):
     )
 
 
-def upsert_products(file_path: str, spark_session: SparkSession):
-    print("products - read records...")
+def etl_products(file_path: str, spark_session: SparkSession):
+    print("products - transform records...")
     src_df = (
         spark_session.read.option("header", "true")
         .csv(file_path)
@@ -125,7 +125,7 @@ def upsert_products(file_path: str, spark_session: SparkSession):
             "created_at",
         )
     )
-    print("products - transform and upsert records...")
+    print("products - upsert records...")
     src_df.createOrReplaceTempView("products_tbl")
     products_update_qry = """
     WITH products_to_update AS (
@@ -164,8 +164,8 @@ def upsert_products(file_path: str, spark_session: SparkSession):
     )
 
 
-def upsert_orders(file_path: str, spark_session: SparkSession):
-    print("orders - read records...")
+def etl_orders(file_path: str, spark_session: SparkSession):
+    print("orders - transform records...")
     src_df = (
         spark_session.read.option("header", "true")
         .csv(file_path)
@@ -176,7 +176,7 @@ def upsert_orders(file_path: str, spark_session: SparkSession):
         .withColumn("quantity", expr("CAST(quantity AS int)"))
         .withColumn("created_at", to_timestamp("created_at"))
     )
-    print("orders - transform and append records...")
+    print("orders - append records...")
     src_df.createOrReplaceTempView("orders_tbl")
     spark_session.sql(
         """
